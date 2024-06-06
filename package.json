@@ -1,0 +1,15 @@
+{
+    "name": "github-streak-desk-display",
+    "version": "1.0.0",
+    "description": "Displays GitHub streak on a desk display",
+    "main": "src/main.js",
+    "scripts": {
+      "start": "node src/main.js"
+    },
+    "author": "Your Name",
+    "license": "MIT",
+    "dependencies": {
+      "node-fetch": "^3.0.0"
+    }
+  }
+  
