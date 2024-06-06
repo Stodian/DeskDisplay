@@ -1,4 +1,4 @@
-# GitHub Streak Desk Display
+# Streak Desk Display
 
 This project displays your GitHub streak chart on a desk display. It fetches your GitHub contribution data and renders it on a small display, perfect for showcasing your coding commitment.
 
