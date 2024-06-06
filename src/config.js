@@ -1,5 +1,3 @@
-// Configuration file
-
 module.exports = {
     GITHUB_USERNAME: 'Stodian',
     DISPLAY_WIDTH: 128,
